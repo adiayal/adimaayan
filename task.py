@@ -1,2 +1,1 @@
 print("adi")
-print("dog")
