@@ -1,2 +1,2 @@
 print("adi")
-print("adi")
+print("adid")
